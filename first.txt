@@ -1,5 +1,9 @@
 fghhukikugy
+<<<<<<< HEAD
+dayaana
+=======
 dayaana\
 yfjhgf
 cvlkbnsdjfvbnksvfdvdsfvsdv
 
+>>>>>>> main
